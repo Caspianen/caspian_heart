@@ -30,3 +30,6 @@
 .message {
   display: none !important;
 }
+body {
+  background: radial-gradient(circle at top, #d0e7ff, #a0c4ff, #5a8dee);
+}
